@@ -2,7 +2,7 @@
   "schema_version": 1,
   "package": {
     "name": "claude-code-ultimate-guide",
-    "version": "1.3.7",
+    "version": "1.3.8",
     "registry_name": "claude-code-ultimate-guide-mcp",
     "mcp_registry_name": "io.github.FlorianBruniaux/claude-code-guide",
     "node_engine": ">=18.14.1",
@@ -14,7 +14,7 @@
     "version": "3.45.2",
     "line_count": 26193,
     "index_entries": 2028,
-    "claude_code_releases": 288
+    "claude_code_releases": 291
   },
   "runtime": {
     "tools": [
@@ -491,5 +491,5 @@
       ]
     }
   },
-  "source_digest": "sha256:a9c0775f6a025b09e27efbee2a69cbf9780f1db74a26364baaf56a9f79870e74"
+  "source_digest": "sha256:bb989df0b69e799910af8e36dd0f45a2243360722cc174922d3d2199015e5bdb"
 }
